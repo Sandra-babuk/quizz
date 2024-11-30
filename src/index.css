@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  height: 100vh;
+  background-image:url(https://www.intera.com/app/uploads/2021/03/ts-bg-m.jpg);
+  background-size: cover;
+  font-family: 'poppins';
+  overflow-y: hidden;
+}
